@@ -249,12 +249,12 @@ return [
         [
             'text' => 'Manufacturers',
             'url'  => 'manufacturer',
-            'icon' => 'far fa-bulding',
+            'icon' => 'far fa-building',
         ],
         [
             'text' => 'Notes',
             'url'  => 'notes',
-            'icon' => 'far fa-sticky-note-o',
+            'icon' => 'far fa-sticky-note',
         ],
     ],
     
