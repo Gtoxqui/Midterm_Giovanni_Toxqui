@@ -234,7 +234,7 @@ return [
         [
             'text' => 'Manage Invoices',
             'url'  => 'invoice',
-            'icon' => 'far fa-envelope',
+            'icon' => 'far fa-money',
         ],
         [
             'text' => 'Manage Customers',
