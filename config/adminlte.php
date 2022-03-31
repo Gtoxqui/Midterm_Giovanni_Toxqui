@@ -239,7 +239,7 @@ return [
         [
             'text' => 'Manage Customers',
             'url'  => 'customer',
-            'icon' => 'far fa-user-circle',
+            'icon' => 'far fa-users',
         ],
         [
             'text' => 'Manage Equipment',
