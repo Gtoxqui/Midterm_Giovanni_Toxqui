@@ -254,7 +254,7 @@ return [
         [
             'text' => 'Notes',
             'url'  => 'notes',
-            'icon' => 'far fa-sticky-note',
+            'icon' => 'far fa-sticky-note-o',
         ],
     ],
     
