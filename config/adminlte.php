@@ -224,19 +224,22 @@ return [
     |
     */
     'menu' => [
+        // Navbar items:
         [
             'type' => 'sidebar-menu-search',
             'text' => 'search',
         ],
+        
+        // Sidebar items:
         [
             'text' => 'Manage Invoices',
             'url'  => 'invoice',
-            'icon' => 'far fa-envelope-o',
+            'icon' => 'fa-envelope-o',
         ],
         [
             'text' => 'Manage Customers',
             'url'  => 'customer',
-            'icon' => 'far fa-users',
+            'icon' => 'far fa-user-circle',
         ],
         [
             'text' => 'Manage Equipment',
@@ -246,14 +249,15 @@ return [
         [
             'text' => 'Manufacturers',
             'url'  => 'manufacturer',
-            'icon' => 'far fa-bulding',
+            'icon' => 'fas fa-bulding',
         ],
         [
             'text' => 'Notes',
             'url'  => 'notes',
-            'icon' => 'far fa-sticky-note-o',
+            'icon' => 'fas fa-sticky-note-o',
         ],
     ],
+    
 /*
 |--------------------------------------------------------------------------
 | Menu Filters
