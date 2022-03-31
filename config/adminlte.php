@@ -231,27 +231,27 @@ return [
         [
             'text' => 'Manage Invoices',
             'url'  => 'invoice',
-            'icon' => 'fas fa-fw fa-file',
+            'icon' => 'far fa-envelope-o',
         ],
         [
             'text' => 'Manage Customers',
             'url'  => 'customer',
-            'icon' => 'fas fa-fw fa-file',
+            'icon' => 'far fa-users',
         ],
         [
             'text' => 'Manage Equipment',
             'url'  => 'equipment',
-            'icon' => 'fas fa-fw fa-calendar-alt',
+            'icon' => 'far fa-hdd',
         ],
         [
             'text' => 'Manufacturers',
             'url'  => 'manufacturer',
-            'icon' => 'fas fa-fw fa-file',
+            'icon' => 'far fa-bulding',
         ],
         [
             'text' => 'Notes',
             'url'  => 'notes',
-            'icon' => 'fas fa-fw fa-file',
+            'icon' => 'far fa-sticky-note-o',
         ],
     ],
 /*
