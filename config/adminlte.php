@@ -234,12 +234,12 @@ return [
         [
             'text' => 'Manage Invoices',
             'url'  => 'invoice',
-            'icon' => 'far fa-money',
+            'icon' => 'far fa-envelope-square',
         ],
         [
             'text' => 'Manage Customers',
             'url'  => 'customer',
-            'icon' => 'far fa-users',
+            'icon' => 'far fa-user-circle',
         ],
         [
             'text' => 'Manage Equipment',
