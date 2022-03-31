@@ -234,7 +234,7 @@ return [
         [
             'text' => 'Manage Invoices',
             'url'  => 'invoice',
-            'icon' => 'fa-envelope-o',
+            'icon' => 'far fa-envelope',
         ],
         [
             'text' => 'Manage Customers',
@@ -249,12 +249,12 @@ return [
         [
             'text' => 'Manufacturers',
             'url'  => 'manufacturer',
-            'icon' => 'fas fa-bulding',
+            'icon' => 'far fa-bulding',
         ],
         [
             'text' => 'Notes',
             'url'  => 'notes',
-            'icon' => 'fas fa-sticky-note-o',
+            'icon' => 'far fa-sticky-note-o',
         ],
     ],
     
